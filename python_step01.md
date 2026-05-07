@@ -1,11 +1,6 @@
 <div style="background-color:black; color:white; padding:20px; border-radius:6px;">
 
-# Your Title Here
-#Python Beginners Guide  
-#You can add **bold**, *italic*, lists, code, anything.
-
-</div>
-
+# Python Beginners Guide
 
 ##Python Step‑01 Guide
 
