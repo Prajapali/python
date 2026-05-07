@@ -8,7 +8,7 @@ print(str(celsius) + "°C is equal to " + str(fahrenheit) + "°F")
 
 ## or  print(f"{celsius}°C is equal to {fahrenheit}°F")
 
-![Exercise 2.1](../Images/img-Ex_2_1.png)
+![Exercise](../Images/img-Ex_2_1.png)
 
 
 
