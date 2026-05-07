@@ -16,8 +16,7 @@ volume = area * length
 print("Area:", area)
 print("Volume:", volume)
 
-![Screenshot](../../../Images/img-Ex_2_2.png)
-
+![Exercise 2.2](../Images/img-Ex_2_2.png)
 
 
 
