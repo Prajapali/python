@@ -1,6 +1,6 @@
 # Python Beginners Guide
 
-##Python Step‑01 Guide
+Python Step‑01 Guide
 
 1. Install Python
 
